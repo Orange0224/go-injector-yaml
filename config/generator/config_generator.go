@@ -2,7 +2,7 @@ package config_generator
 
 import (
 	"fmt"
-	"go-injector-yaml/config/utils"
+	"github.com/Orange0224/go-injector-yaml/config/utils"
 	"io/ioutil"
 	"os"
 	"path/filepath"
