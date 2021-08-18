@@ -2,7 +2,7 @@ package config_type
 
 import (
 	"fmt"
-	"github.com/Orange0224/go-injector-yaml/config/utils"
+	"github.com/orange0224/go-injector-yaml/config/utils"
 	"io/ioutil"
 	"log"
 	"os"
