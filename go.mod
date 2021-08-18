@@ -1,3 +1,3 @@
-module github.com/Orange0224/go-injector-yaml
+module github.com/orange0224/go-injector-yaml
 
 go 1.16
